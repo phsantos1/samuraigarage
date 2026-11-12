@@ -1,0 +1,8 @@
+{
+  "name": "Remix Garage Samurai - Estética Automotiva",
+  "description": "Oficina de alto padrão especializada em Funilaria, Pintura, Polimento Técnico e Vitrificação em Guarulhos - SP. Disciplina e precisão samurai com showroom 3D interativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
